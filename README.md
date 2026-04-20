@@ -24,7 +24,7 @@ Customer Info – Customer Name, Car ID
 
 Data was extracted from MySQL into Power BI using 10+ complex SQL queries involving JOINs, GROUP BY, CTEs, and Window Functions — reducing data preparation time by 35%.
 
-5.
+5.Highlights of my Dashboard
 Business Problem
 Automotive sales managers and regional heads lacked a unified, real-time view of sales performance across dealers, brands, and regions — making it difficult to track KPIs, compare year-over-year trends, and identify underperforming segments quickly.
 
@@ -41,4 +41,10 @@ Average car price slightly declined by -0.83% YoY ($27.91K), suggesting a shift 
 SUVs dominate body style sales, followed by Hatchbacks and Sedans — useful for inventory planning
 Chevrolet leads company-wise with $27.1M YTD sales and 1,043 units, followed by Ford and Dodge
 Austin region shows the largest dealer bubble, indicating highest regional concentration of sales
+
+6.Snapshots Of My Dahboard
+[Dashboard Preview (Car Sales Report Overview)](https://github.com/dani4945/CAR-SALES-DASHBOARD/blob/main/Snapshot%20of%20Car%20Sales%20Dashboard%20Details%20Report.png)
+
+
+
 
