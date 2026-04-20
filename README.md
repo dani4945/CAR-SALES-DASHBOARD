@@ -45,6 +45,8 @@ Austin region shows the largest dealer bubble, indicating highest regional conce
 6.Snapshots Of My Dahboard
 
 [Dashboard Preview (Car Sales Report Overview Page)](https://github.com/dani4945/CAR-SALES-DASHBOARD/blob/main/Snapshot%20of%20Car%20Sales%20Dashboard%20Overview%20Report.png)
+
+
 [Dashboard Preview (Car Sales Report Details Page)](https://github.com/dani4945/CAR-SALES-DASHBOARD/blob/main/Snapshot%20of%20Car%20Sales%20Dashboard%20Details%20Report.png)
 
 
