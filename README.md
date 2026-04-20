@@ -43,7 +43,11 @@ Chevrolet leads company-wise with $27.1M YTD sales and 1,043 units, followed by 
 Austin region shows the largest dealer bubble, indicating highest regional concentration of sales
 
 6.Snapshots Of My Dahboard
-[Dashboard Preview (Car Sales Report Overview)](https://github.com/dani4945/CAR-SALES-DASHBOARD/blob/main/Snapshot%20of%20Car%20Sales%20Dashboard%20Details%20Report.png)
+
+[Dashboard Preview (Car Sales Report Overview Page)](https://github.com/dani4945/CAR-SALES-DASHBOARD/blob/main/Snapshot%20of%20Car%20Sales%20Dashboard%20Overview%20Report.png)
+[Dashboard Preview (Car Sales Report Details Page)](https://github.com/dani4945/CAR-SALES-DASHBOARD/blob/main/Snapshot%20of%20Car%20Sales%20Dashboard%20Details%20Report.png)
+
+
 
 
 
